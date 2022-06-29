@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959492593842",
+    "project_id": "text-scanner-5b428",
+    "storage_bucket": "text-scanner-5b428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959492593842:android:a1b3f755631a065f8711ab",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959492593842-891luget6c7nimmjqkpn9ilmcjfhm16r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAH6WwROPxpZnxcpo0yMYF4EmY2d00FzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959492593842-891luget6c7nimmjqkpn9ilmcjfhm16r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
